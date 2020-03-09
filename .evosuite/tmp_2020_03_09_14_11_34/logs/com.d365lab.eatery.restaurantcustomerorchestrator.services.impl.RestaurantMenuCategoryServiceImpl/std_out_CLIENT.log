@@ -1,0 +1,3 @@
+[MASTER] 14:36:04.072 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 2 seconds more than allowed.
+[MASTER] 14:36:08.546 [pool-2-thread-1] WARN  TestFactory - Bounded variable issue when calling createVariable()
+[MASTER] 14:36:08.547 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No objects and generators for type class com.d365lab.eatery.restaurantcustomerorchestrator.services.impl.RestaurantMenuCategoryServiceImpl

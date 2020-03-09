@@ -1,0 +1,3 @@
+[MASTER] 14:29:20.518 [pool-2-thread-1] WARN  TestSuiteMinimizer - Minimization timeout. Roll back to original test suite
+[MASTER] 14:29:20.526 [pool-2-thread-1] WARN  TimeController - Phase MINIMIZATION lasted too long, 0 seconds more than allowed.
+[MASTER] 14:29:32.212 [pool-2-thread-1] WARN  SimpleMutationAssertionGenerator - Reached maximum time to generate assertions, aborting assertion generation

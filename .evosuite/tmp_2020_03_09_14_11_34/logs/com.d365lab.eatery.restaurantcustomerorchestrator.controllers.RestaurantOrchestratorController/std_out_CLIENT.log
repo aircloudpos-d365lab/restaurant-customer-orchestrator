@@ -1,0 +1,93 @@
+[MASTER] 14:11:54.646 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderOutputPayload due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderOutputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:11:54.929 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderOutputPayload due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantOrder due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 14:11:54.931 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantMenuWithCustomization due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantMenu due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:11:54.960 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:11:56.953 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantMenuWithCustomization due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantMenuWithCustomization canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:12:00.018 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantMenuWithCustomization due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantMenu due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 14:12:00.044 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderOutputPayload due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantOrder due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:12:11.959 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantDetails due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantDetails canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:12:12.110 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.CartMenu due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderOutputPayload due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.OrderInvoice due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 14:12:21.894 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.OrderInvoice due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:12:23.044 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.OrderInvoice due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.OrderInvoice canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:12:44.966 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.OrderInvoice due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderOutputPayload due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantOrder due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 14:12:51.308 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.OrderInvoice due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderOutputPayload due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantOrder due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:13:34.934 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantOrder due to org.evosuite.ga.ConstructionFailedException: Max recursion depth reached
+[MASTER] 14:13:51.773 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantOrder due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:14:18.505 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantMenuWithCustomization due to org.evosuite.ga.ConstructionFailedException: Failed to add constructor for java.util.Vector due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantMenuWithCustomization canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:14:37.276 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantPaymentOptions due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:20:56.851 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: Failed to add constructor for com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantOrder due to org.evosuite.ga.ConstructionFailedException: Have no generator for class com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantPaymentOptions canUseFunctionalMocks=false, canBeMocked: true
+[MASTER] 14:26:51.381 [pool-2-thread-1] WARN  JUnitAnalyzer - Found unstable test named test0 -> class java.lang.LinkageError: loader constraint violation: when resolving method "com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantPaymentOptions.<init>(Ljava/lang/Integer;Ljava/lang/String;Lcom/d365lab/eatery/restaurantcustomerorchestrator/model/enums/RestaurantPaymentMode;Ljava/lang/String;)V" the class loader (instance of org/evosuite/instrumentation/NonInstrumentingClassLoader) of the current class, com/d365lab/eatery/restaurantcustomerorchestrator/controllers/RestaurantOrchestratorController_121_tmp__ESTest, and the class loader (instance of org/evosuite/instrumentation/InstrumentingClassLoader) for the method's defining class, com/d365lab/eatery/restaurantcustomerorchestrator/dao/RestaurantPaymentOptions, have different Class objects for the type com/d365lab/eatery/restaurantcustomerorchestrator/model/enums/RestaurantPaymentMode used in the signature
+[MASTER] 14:26:51.382 [pool-2-thread-1] WARN  JUnitAnalyzer - Failing test:
+ RestaurantOrchestratorController restaurantOrchestratorController0 = new RestaurantOrchestratorController();
+InvoiceGenerationService invoiceGenerationService0 = mock(InvoiceGenerationService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "invoiceGenerationService", (Object) invoiceGenerationService0);
+RestaurantMenuCategoryService restaurantMenuCategoryService0 = mock(RestaurantMenuCategoryService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantMenuCategoryService", (Object) restaurantMenuCategoryService0);
+RestaurantOrchestratorService restaurantOrchestratorService0 = mock(RestaurantOrchestratorService.class, new ViolatedAssumptionAnswer());
+doReturn((RestaurantPaymentOptions) null).when(restaurantOrchestratorService0).addRestaurantPaymentOptions(any(com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantPaymentOptions.class));
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrchestratorService", (Object) restaurantOrchestratorService0);
+RestaurantOrderService restaurantOrderService0 = mock(RestaurantOrderService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrderService", (Object) restaurantOrderService0);
+Injector.validateBean(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class);
+Integer integer0 = new Integer(2147483645);
+RestaurantPaymentMode restaurantPaymentMode0 = RestaurantPaymentMode.PHONE_PAY;
+RestaurantPaymentOptions restaurantPaymentOptions0 = new RestaurantPaymentOptions(integer0, "", restaurantPaymentMode0, "l");
+ResponseEntity<RestaurantPaymentOptions> responseEntity0 = restaurantOrchestratorController0.createRestaurantPaymentOptionsForARestaurant(restaurantPaymentOptions0);
+assertEquals(500, responseEntity0.getStatusCodeValue());
+
+
+[MASTER] 14:26:58.416 [pool-2-thread-1] WARN  JUnitAnalyzer - Found unstable test named test0 -> class java.lang.AssertionError: null
+[MASTER] 14:26:58.416 [pool-2-thread-1] WARN  JUnitAnalyzer - Failing test:
+ RestaurantOrchestratorController restaurantOrchestratorController0 = new RestaurantOrchestratorController();
+InvoiceGenerationService invoiceGenerationService0 = mock(InvoiceGenerationService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "invoiceGenerationService", (Object) invoiceGenerationService0);
+RestaurantMenuCategoryService restaurantMenuCategoryService0 = mock(RestaurantMenuCategoryService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantMenuCategoryService", (Object) restaurantMenuCategoryService0);
+RestaurantMenuWithCustomization restaurantMenuWithCustomization0 = new RestaurantMenuWithCustomization();
+RestaurantOrchestratorService restaurantOrchestratorService0 = mock(RestaurantOrchestratorService.class, new ViolatedAssumptionAnswer());
+doReturn(restaurantMenuWithCustomization0).when(restaurantOrchestratorService0).addRestaurantMenu(any(com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantMenuInputPayload.class));
+doReturn(restaurantMenuWithCustomization0).when(restaurantOrchestratorService0).getRestaurantMenuForMenuNameAndTenant(anyInt() , anyString());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrchestratorService", (Object) restaurantOrchestratorService0);
+RestaurantOrderService restaurantOrderService0 = mock(RestaurantOrderService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrderService", (Object) restaurantOrderService0);
+Injector.validateBean(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class);
+RestaurantMenuInputPayload restaurantMenuInputPayload0 = new RestaurantMenuInputPayload();
+ResponseEntity<RestaurantMenuWithCustomization> responseEntity0 = restaurantOrchestratorController0.updateRestaurantMenuOfARestaurant(restaurantMenuInputPayload0);
+assertTrue(responseEntity0.hasBody());
+
+
+[MASTER] 14:27:11.846 [pool-2-thread-1] WARN  JUnitAnalyzer - Found unstable test named test0 -> class java.lang.AssertionError: expected:<204> but was:<500>
+[MASTER] 14:27:11.847 [pool-2-thread-1] WARN  JUnitAnalyzer - Failing test:
+ RestaurantOrchestratorController restaurantOrchestratorController0 = new RestaurantOrchestratorController();
+InvoiceGenerationService invoiceGenerationService0 = mock(InvoiceGenerationService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "invoiceGenerationService", (Object) invoiceGenerationService0);
+RestaurantMenuCategoryService restaurantMenuCategoryService0 = mock(RestaurantMenuCategoryService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantMenuCategoryService", (Object) restaurantMenuCategoryService0);
+RestaurantDetails restaurantDetails0 = new RestaurantDetails();
+RestaurantOrchestratorService restaurantOrchestratorService0 = mock(RestaurantOrchestratorService.class, new ViolatedAssumptionAnswer());
+doReturn(restaurantDetails0).when(restaurantOrchestratorService0).getRestaurantDetailsForRestaurant(anyString());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrchestratorService", (Object) restaurantOrchestratorService0);
+RestaurantOrderService restaurantOrderService0 = mock(RestaurantOrderService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrderService", (Object) restaurantOrderService0);
+Injector.validateBean(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class);
+ResponseEntity<RestaurantDetails> responseEntity0 = restaurantOrchestratorController0.getRestaurantDetailsForARestaurant((String) null);
+assertEquals(204, responseEntity0.getStatusCodeValue());
+
+
+[MASTER] 14:27:18.204 [pool-2-thread-1] WARN  JUnitAnalyzer - Found unstable test named test0 -> class java.lang.NullPointerException: null
+[MASTER] 14:27:18.217 [pool-2-thread-1] WARN  JUnitAnalyzer - Failing test:
+ RestaurantOrchestratorController restaurantOrchestratorController0 = new RestaurantOrchestratorController();
+InvoiceGenerationService invoiceGenerationService0 = mock(InvoiceGenerationService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "invoiceGenerationService", (Object) invoiceGenerationService0);
+RestaurantMenuCategoryService restaurantMenuCategoryService0 = mock(RestaurantMenuCategoryService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantMenuCategoryService", (Object) restaurantMenuCategoryService0);
+RestaurantOrchestratorService restaurantOrchestratorService0 = mock(RestaurantOrchestratorService.class, new ViolatedAssumptionAnswer());
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrchestratorService", (Object) restaurantOrchestratorService0);
+RestaurantOrderService restaurantOrderService0 = mock(RestaurantOrderService.class, new ViolatedAssumptionAnswer());
+doReturn((RestaurantOrderOutputPayload) null).when(restaurantOrderService0).createRestaurantOrder(any(com.d365lab.eatery.restaurantcustomerorchestrator.model.RestaurantOrderInputPayload.class));
+Injector.inject(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class, "restaurantOrderService", (Object) restaurantOrderService0);
+Injector.validateBean(restaurantOrchestratorController0, (Class<?>) RestaurantOrchestratorController.class);
+ResponseEntity<RestaurantOrderOutputPayload> responseEntity0 = restaurantOrchestratorController0.createRestaurantOrderOfARestaurant((RestaurantOrderInputPayload) null);
+assertEquals(500, responseEntity0.getStatusCodeValue());
+
+

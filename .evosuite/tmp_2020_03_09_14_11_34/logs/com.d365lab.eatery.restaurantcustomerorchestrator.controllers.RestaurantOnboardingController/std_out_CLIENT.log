@@ -1,0 +1,2 @@
+[MASTER] 14:35:54.087 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 3 seconds more than allowed.
+[MASTER] 14:36:00.872 [pool-2-thread-1] WARN  TestChromosome - Functional mock problem: org.evosuite.ga.ConstructionFailedException: No generators of type java.util.List<com.d365lab.eatery.restaurantcustomerorchestrator.dao.RestaurantLogin>

@@ -1,0 +1,2 @@
+[MASTER] 14:37:51.532 [pool-2-thread-1] WARN  TimeController - Phase INITIALIZATION lasted too long, 1 seconds more than allowed.
+[MASTER] 14:38:29.570 [pool-2-thread-1] WARN  SimpleMutationAssertionGenerator - Reached maximum time to generate assertions, aborting assertion generation
